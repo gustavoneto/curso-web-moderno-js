@@ -4,6 +4,7 @@ prod1.preco = 4998.90
 prod1['Desconto Legal'] = 0.40      //evitar atributos com espaço
 
 console.log(prod1)
+console.log()
 
 const prod2 = {     //cria um tipo objeto ***É DIFERENTE DE JSON***
     nome: 'Camisa Polo',
