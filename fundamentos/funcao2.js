@@ -3,7 +3,7 @@ const imprimirSoma = function(a, b){
     console.log(a + b)
 }
 
-imprimirSoma(2, 3)
+imprimirSoma(2, 3) // Soma a + b
 
 // Armazenando uma funcao arrow em uma variavel
 const soma = (a, b) => {    // Essa setinha substitui o nome 'function'
